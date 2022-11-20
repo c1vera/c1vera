@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F59191&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Vera's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-<h2><strong>💌 Vera 💌</strong></h2>
+<strong>💌 Vera 💌</strong>
 
 안녕하세요 베라입니다💕<br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc1vera%2Fhit-counter&count_bg=%23F59191&title_bg=%237F7F7F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
