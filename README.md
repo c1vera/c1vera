@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> 
 
-<br>
+<br><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=c1vera&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1vera&layout=compact)
