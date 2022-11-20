@@ -24,6 +24,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=c1vera&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1vera&layout=compact)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=c1vera)](https://solved.ac/c1vera/)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=F59191&height=160&section=footer)
